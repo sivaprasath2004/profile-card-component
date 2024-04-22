@@ -42,5 +42,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- OrtalyARTS
-- Frontend Mentor - [sivaprasath2004](https://github.com/sivaprasath2004)
+- sivaprasath2004 - [sivaprasath2004](https://github.com/sivaprasath2004)
